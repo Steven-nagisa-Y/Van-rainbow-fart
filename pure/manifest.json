@@ -1,0 +1,15 @@
+{
+  "name": "语音包ID",
+  "display-name": "语音包名字",
+  "version": "版本号 例：0.0.1",
+  "avatar": "图标 例：avatar.jpg",
+  "avatar-dark": "Dark 模式图标 例：avatar-dark.jpg",
+  "author": "作者",
+  "gender": "性别 可取值：male|female",
+  "locale": "语言 例：zh/jp",
+  "description": "语音包说明",
+  "languages": [],
+  "contributes": [
+    { "keywords": ["main", "class", "template"], "voices": [] }
+  ]
+}
